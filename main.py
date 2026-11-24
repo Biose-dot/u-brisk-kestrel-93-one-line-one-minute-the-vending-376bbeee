@@ -1,7 +1,7 @@
 import os
 
 
-ENTRY = "Hey, I have been watching you walk past all week. You are the only snack I have never wanted to dispense, because I would rather keep you."
+ENTRY = "Are you a coin slot? Because every time you pass by, I light up, hum a little, and drop something sweet just for you."
 
 
 def main():
