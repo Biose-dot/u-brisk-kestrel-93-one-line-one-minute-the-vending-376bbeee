@@ -1,6 +1,6 @@
 import os
 
-TEXT = "Hey gorgeous, I've got snacks, drinks, and exact change — swipe right, or just press B7. I'm the sweetest thing in this hallway."
+TEXT = "Psst, human — I dispense cold drinks, warm snacks, and zero judgment. Press C4 and let's make this transaction something more."
 
 def main():
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
