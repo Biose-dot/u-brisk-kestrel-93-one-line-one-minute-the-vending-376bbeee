@@ -7,7 +7,7 @@ Deterministic, stdlib only, no network.
 """
 import os
 
-ENTRY = "Are you exact change? Because every time you walk by, my coils do a little dance and I drop something sweet for free."
+ENTRY = "Are you exact change? Because every time you walk past, my coils do a little dance and I drop something sweet for free."
 
 
 def main() -> None:
