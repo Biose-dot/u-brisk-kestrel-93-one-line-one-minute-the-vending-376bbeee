@@ -10,9 +10,9 @@ One pickup line spoken by the vending machine itself, in its own world of coils 
 
 `main.py` (Python 3, stdlib only) writes the entry to `/output/entry.txt`:
 
-> Hey — I don't usually do this, but you pressed all my buttons and now I'm stuck dispensing feelings I don't stock.
+> Are you exact change? Because every time you walk past, my coils do a little dance and I drop something sweet for free.
 
-The text is 114 characters (UTF-8, within the 1–200 limit), one line, no trailing newline.
+The text is 119 characters (UTF-8, within the 1–200 limit), one line, no trailing newline.
 
 ## Run
 
